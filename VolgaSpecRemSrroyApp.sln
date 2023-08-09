@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolgaSpecRemSrroyApp", "VolgaSpecRemSrroyApp\VolgaSpecRemSrroyApp.csproj", "{0FF23406-D2CE-4B41-BA31-87D67D75666E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FF23406-D2CE-4B41-BA31-87D67D75666E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF23406-D2CE-4B41-BA31-87D67D75666E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF23406-D2CE-4B41-BA31-87D67D75666E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF23406-D2CE-4B41-BA31-87D67D75666E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {771089DA-3AAC-402A-A5AC-C90B3BE7FF9A}
+	EndGlobalSection
+EndGlobal
